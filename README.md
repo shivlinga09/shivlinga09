@@ -14,7 +14,7 @@ I'm a passionate developer  learning **TypeScript, JavaScript, Node.js**, and ba
 
 
 ## 📫 Connect with Me  
-💡  **Website** [Portfolio](https://shivlinga09.github.io/website/)
-🔗 **GitHub:** [Github Profile](https://github.com/shivlinga09)  
+💡  **Website** [Portfolio](https://shivlinga09.github.io/website/)<br>
+🔗 **GitHub:** [Github Profile](https://github.com/shivlinga09)<br>  
 💼 **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/shivlinga-halimani-85440224)
 
